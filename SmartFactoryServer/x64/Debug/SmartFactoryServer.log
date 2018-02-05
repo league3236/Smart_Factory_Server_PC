@@ -1,0 +1,15 @@
+﻿mainTest.obj : error LNK2019: __imp_WSAStartup 외부 기호(참조 위치: "private: void __cdecl HSServer::serverStart(int)" (?serverStart@HSServer@@AEAAXH@Z) 함수)에서 확인하지 못했습니다.
+mainTest.obj : error LNK2019: __imp_WSACleanup 외부 기호(참조 위치: "public: __cdecl HSServer::~HSServer(void)" (??1HSServer@@QEAA@XZ) 함수)에서 확인하지 못했습니다.
+serverSocket.obj : error LNK2019: __imp_accept 외부 기호(참조 위치: "public: class Socket * __cdecl ServerSocket::accept(void)" (?accept@ServerSocket@@QEAAPEAVSocket@@XZ) 함수)에서 확인하지 못했습니다.
+serverSocket.obj : error LNK2019: __imp_bind 외부 기호(참조 위치: "public: __cdecl ServerSocket::ServerSocket(unsigned short,unsigned long,int)" (??0ServerSocket@@QEAA@GKH@Z) 함수)에서 확인하지 못했습니다.
+serverSocket.obj : error LNK2019: __imp_htonl 외부 기호(참조 위치: "public: __cdecl ServerSocket::ServerSocket(unsigned short,unsigned long,int)" (??0ServerSocket@@QEAA@GKH@Z) 함수)에서 확인하지 못했습니다.
+serverSocket.obj : error LNK2019: __imp_listen 외부 기호(참조 위치: "public: __cdecl ServerSocket::ServerSocket(unsigned short,unsigned long,int)" (??0ServerSocket@@QEAA@GKH@Z) 함수)에서 확인하지 못했습니다.
+socket.obj : error LNK2019: __imp_connect 외부 기호(참조 위치: "public: int __cdecl Socket::connect(void)" (?connect@Socket@@QEAAHXZ) 함수)에서 확인하지 못했습니다.
+socket.obj : error LNK2019: __imp_inet_addr 외부 기호(참조 위치: "public: __cdecl Socket::Socket(unsigned short,char const *,int)" (??0Socket@@QEAA@GPEBDH@Z) 함수)에서 확인하지 못했습니다.
+socket.obj : error LNK2019: __imp_recv 외부 기호(참조 위치: "public: int __cdecl Socket::recv(char *,int)" (?recv@Socket@@QEAAHPEADH@Z) 함수)에서 확인하지 못했습니다.
+socket.obj : error LNK2019: __imp_send 외부 기호(참조 위치: "public: int __cdecl Socket::send(char *,int)" (?send@Socket@@QEAAHPEADH@Z) 함수)에서 확인하지 못했습니다.
+socketParents.obj : error LNK2019: __imp_closesocket 외부 기호(참조 위치: "public: int __cdecl SocketParents::close(void)" (?close@SocketParents@@QEAAHXZ) 함수)에서 확인하지 못했습니다.
+socketParents.obj : error LNK2019: __imp_ioctlsocket 외부 기호(참조 위치: "public: void __cdecl SocketParents::SetNonBlock(void)" (?SetNonBlock@SocketParents@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+socketParents.obj : error LNK2019: __imp_htons 외부 기호(참조 위치: "public: __cdecl SocketParents::SocketParents(unsigned short,unsigned long,int)" (??0SocketParents@@QEAA@GKH@Z) 함수)에서 확인하지 못했습니다.
+socketParents.obj : error LNK2019: __imp_socket 외부 기호(참조 위치: "public: __cdecl SocketParents::SocketParents(unsigned short,unsigned long,int)" (??0SocketParents@@QEAA@GKH@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\605pc\Desktop\SmartFactoryServer\x64\Debug\SmartFactoryServer.exe : fatal error LNK1120: 14개의 확인할 수 없는 외부 참조입니다.

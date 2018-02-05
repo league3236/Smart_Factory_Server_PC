@@ -1,0 +1,11 @@
+﻿  ServerWorkContorl.cpp
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\socketparents.h(29): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\filesocket.h(99): warning C4244: '=': '__int64'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\filesocket.h(102): warning C4477: 'printf' : 서식 문자열 '%ld'에 'long' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+  c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\filesocket.h(102): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\filesocket.h(102): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\filesocket.h(116): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\timecounter.h(29): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\serverworkcontorl.cpp(262): warning C4244: '=': '__int64'에서 'ULONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\605pc\desktop\lab프로젝트 최종폴더 (2)\lab프로젝트 최종폴더\smartfactoryserver\smartfactoryserver\serverworkcontorl.cpp(316): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  SmartFactoryServer.vcxproj -> C:\Users\605pc\Desktop\Lab프로젝트 최종폴더 (2)\Lab프로젝트 최종폴더\SmartFactoryServer\Debug\SmartFactoryServer.exe
